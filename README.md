@@ -1,7 +1,8 @@
 # video-sum-survey
 Video Summarization Survey for Research
 
-## 게획 (Naver Clova - 글자읽는 AI: 밑바닥부터 외국어 정복까지 @Naver Deview 2018 발표 참고
+## 게획
+(Naver Clova - 글자읽는 AI: 밑바닥부터 외국어 정복까지 @Naver Deview 2018 발표 참고
 1. 기술 트렌드 파악 (발표 기준 2개월)
   - 주요 학회에 발표된 딥러닝 기반 관련 주제 연구 논문 수
   - 세부적 성능을 그래프로 정리
