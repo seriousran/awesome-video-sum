@@ -132,25 +132,25 @@
     - Zhou, Kaiyang, Tao Xiang, and Andrea Cavallaro.
     - arXiv preprint arXiv:1807.03089
 
-+ 동영상 관련
+### 동영상 관련
 Xu, Jun, et al.
 "Msr-vtt: A large video description dataset for bridging video and language."
 Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016
 Citations: 176
 
-+ 얼굴 관련
+### 얼굴 관련
 Chopra, Sumit, Raia Hadsell, and Yann LeCun.
 "Learning a similarity metric discriminatively, with application to face verification."
 Computer Vision and Pattern Recognition, 2005. CVPR 2005.
 IEEE Computer Society Conference on. Vol. 1. IEEE, 2005.
 Citations: 1322
 
-+ 학습 관련
+### 학습 관련
 Maaten, Laurens van der, and Geoffrey Hinton.
 "Visualizing data using t-SNE."
 Journal of machine learning research 9.Nov (2008): 2579-2605.
 
-- 마이너 학회
+### 마이너 학회
 Li, Yujie, et al.
 "Extracting key frames from first-person videos in the common space of multiple sensors."
 Image Processing (ICIP), 2017 IEEE International Conference on. IEEE, 2017.
