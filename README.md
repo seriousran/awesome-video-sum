@@ -1,6 +1,10 @@
 # video-sum-survey
 Video Summarization Survey for Research
 
+## Contents
+1. [Trend](trend.md)
+2. [Datasets](datasets.md)
+
 ## 게획
 (Naver Clova - 글자읽는 AI: 밑바닥부터 외국어 정복까지 @Naver Deview 2018 발표 참고
 1. 기술 트렌드 파악 (발표 기준 2개월)
