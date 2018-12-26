@@ -13,31 +13,44 @@
 
 1. Video Summarizagion (Highlighting)
 2. Key-frame extraction
-+ Face Detection & Recognition
++ Face Detection & Recognition (in Video)
 + Visual Recognition
 + Video Transition Detection
 
 ## 1. 주요 학회/학술지에 발표된 Video Summarization 연구 논문 수
 
 ### Video Summarization 및 관련 AI 분야 주요 학회 리스트 조사
-1. [CVPR (Conference on Computer Vision and Pattern Recognition)](#CVPR)
-2. [MM (ACM Multimedia Conference)](#MM)
-3. [NIPS](#NIPS)
-4. [SIGIR](#SIGIR)
-5. [ICCV (International Conference on Computer Vision)](#ICCV)
-6. [ECCV (European Conference on Computer Vision)](#ECCV)
-7. [ACCV (Asian Conference on Computer Vision)](#ACCV)
-8. [ICMR (ACM International Conference on Multimedia Retrieval)](#ICMR)
-9. [AVSS (IEEE International Conference on Advanced Video and Signal-Based Surveillance)](#AVSS)
-+ BMVC (British Machine Vision Conference) 
-+ MMSP (IEEE Workshop on Multimedia Signal Processing)
-+ ICIP (IEEE International Conference on Image Processing)
+
+idx | conference | rank(Qualis) | rank(ERA) | full-name | num-papers
+--- | --- | --- | --- | --- | ---
+1 | [CVPR](#cvpr) | A1 | A | Conference on Computer Vision and Pattern Recognition | 1
+2 | [ACM MM](#mm) | A1 | A | ACM Multimedia Conference | 1
+3 | [NIPS](#nips) | A1 | A | C | 1
+4 | [SIGIR](#sigir) | A1 | A | C | 1
+5 | [ICCV](#iccv) | A1 | A | International Conference on Computer Vision | 1
+6 | [ECCV](#eccv) | A1 | A | European Conference on Computer Vision | 1
+7 | [ACCV](#accv) | - | B | Asian Conference on Computer Vision | 1
+8 | [ICIP](#icip) | A1 | B | C | 1
+9 | [ICME](#) | A1 | B | C | 1
+10 | [ICMR](#icmr) | A2 | - | ACM International Conference on Multimedia Retrieval | 1
+11 | [BMVC](#bmvc) | A2 | B | C | 1
+12 | [WACV](#) | B1 | A | C | 1
+13 | [MMSP](#mmsp) | B2 | B | C | 1
+14 | [AVSS](#avss) | - | B | IEEE International Conference on Advanced Video and Signal-Based Surveillance | 1
+15 | [MLSP](#) | B2 | - | C | 1
+
+*Qualis(2012): This conference ranking has been published by the Brazilian ministry of education and uses the H-index as performance measure for conferences. Based on the H-index percentiles, the conferences are grouped into performance classes that range from A1 (=best), A2, B1, ..., B5 (=worst).
+*ERA(2010): This conference ranking has been created as part of the Excellence in Research in Australia (ERA). The ranking was created by Australian deans and the Australian Computing Research and Education Association of Australasia (CORE). The rankings range from A (=best) to C (=worst).
+*Rank information is from [conference ranks](http://www.conferenceranks.com/)
 
 ### 학술지 리스트 조사
-1. [IEEE Transactions on Multimedia (IF: 3.977)](#ieee-transactions-on-multimedia)
-2. [IEEE Transactions on Image processing (IF: 5.071)](#ieee-transactions-on-image-processing)
-3. [IEEE Transactions on Circuits and Systems for Video Technology (IF: 3.558)](#ieee-transactions-on-circuits-and-systems-for-video-technology)
-4. arXiv
+
+idx | journal | IF | full-name | num-papers
+--- | --- | --- | --- | ---
+1 | [TIP](#ieee-transactions-on-image-processing) | 5.071 | IEEE Transactions on Image processing | 1
+2 | [TMM](#ieee-transactions-on-multimedia) | 3.977 | IEEE Transactions on Multimedia | 1
+3 | [TCSVT](#ieee-transactions-on-circuits-and-systems-for-video-technology) | 3.558 | IEEE Transactions on Circuits and Systems for Video Technology | 1
+4 | [arxiv](#arxiv) | - | arxiv | 1
 
 ### CVPR
   - Video summarization using singular value decomposition. (2000)
@@ -156,6 +169,29 @@
   - Video summarization with minimal visual content redundancies. (2001)
     - Gong, Yihong, and Xin Liu.
     - Citations: 61
+  - Extracting key frames from first-person videos in the common space of multiple sensors. (2017)
+    - Li, Yujie, et al.
+    - Citations: 2
+
+### ICME
+  - Learning deep semantic attributes for user video summarization. (2017)
+    - Sun, Ke, et al.
+    - Citations: 1
+
+### WACV
+  - Adaptive keyframe selection for video summarization. (2015)
+    - Chakraborty, Shayok, Omesh Tickoo, and Ravi Iyer.
+    - Citations: 25
+    
+### MLSP
+  - GREEDY SALIENT DICTIONARY LEARNING WITH OPTIMAL POINT RECONSTRUCTION FOR ACTIVITY VIDEO SUMMARIZATION. (2018)
+    - Mademlis, Ioannis, Anastasios Tefas, and Ioannis Pitas.
+    - Citations: 0
+    
+### ISM
+  - Automatic video content summarization using geospatial mosaics of aerial imagery. (2015)
+    - Viguier, Raphael, et al.
+    - Citations: 4
 
 ### IEEE Transactions on Multimedia
   - Personalized abstraction of broadcasted American football video by highlight selection. (2004)
@@ -179,6 +215,9 @@
   - A bag-of-importance model with locality-constrained coding based feature learning for video summarization. (2014)
     - Lu, Shiyang, et al. 
     - Citations: 52
+  - Summarization of user-generated sports video by using deep action recognition features. (2018)
+    - 
+    - Citations: 1
 
 ### IEEE Multimedia
   - Highlights for more complete sports video summarization. (2004)
@@ -332,11 +371,6 @@ Maaten, Laurens van der, and Geoffrey Hinton.
 Journal of machine learning research 9.Nov (2008): 2579-2605.
 
 ### 마이너 학회
-Li, Yujie, et al.
-"Extracting key frames from first-person videos in the common space of multiple sensors."
-Image Processing (ICIP), 2017 IEEE International Conference on. IEEE, 2017.
-Citations: 2
-
 Ai, Xin, Yan Song, and Zechao Li.
 "Unsupervised Video Summarization Based on Consistent Clip Generation."
 2018 IEEE Fourth International Conference on Multimedia Big Data (BigMM). IEEE, 2018.
@@ -352,21 +386,6 @@ Kuncheva, Ludmila I., Paria Yousefi, and Jurandy Almeida.
 Proceedings of the 7th International Conference on Image Processing Theory, Tools and Applications (IPTA 2017). 2017.
 Citations: 2
 
-Mademlis, Ioannis, Anastasios Tefas, and Ioannis Pitas.
-"GREEDY SALIENT DICTIONARY LEARNING WITH OPTIMAL POINT RECONSTRUCTION FOR ACTIVITY VIDEO SUMMARIZATION."
-2018 IEEE 28th International Workshop on Machine Learning for Signal Processing (MLSP). IEEE, 2018.
-Citations: 0
-
-Sun, Ke, et al.
-"Learning deep semantic attributes for user video summarization."
-Multimedia and Expo (ICME), 2017 IEEE International Conference on. IEEE, 2017.
-Citations: 1
-
-Tejero-de-Pablos, Antonio, et al.
-"Summarization of user-generated sports video by using deep action recognition features."
-IEEE Transactions on Multimedia 20.8 (2018): 2000-2011.
-Citations: 1
-
 Vasconcelos, Nuno, and Andrew Lippman.
 "A spatiotemporal motion model for video summarization."
 Computer Vision and Pattern Recognition, 1998. Proceedings.
@@ -378,16 +397,17 @@ Salehin, Md Musfequs, and Manoranjan Paul.
 Pacific-Rim Symposium on Image and Video Technology. Springer, Cham, 2015.
 Citations: 7
 
-Chakraborty, Shayok, Omesh Tickoo, and Ravi Iyer.
-"Adaptive keyframe selection for video summarization."
-Applications of Computer Vision (WACV), 2015 IEEE Winter Conference on. IEEE, 2015.
-Citations: 25
-
-Viguier, Raphael, et al.
-"Automatic video content summarization using geospatial mosaics of aerial imagery."
-Multimedia (ISM), 2015 IEEE International Symposium on. IEEE, 2015.
-Citations: 4
-
 ## 2. 주요 학회/학술지에 발표된 Video Key-frame Extraction 연구 논문 수
+
+### 이 분야의 권위자, 학교, 연구소 조사
+
+
+
+## 3. 주요 학회/학술지에 발표된 Face Detection & Recognition (in Video) 연구 논문 수
+
+
+Sivic, Josef, Mark Everingham, and Andrew Zisserman. "“Who are you?”-Learning person specific classifiers from video." Computer Vision and Pattern Recognition, 2009. CVPR 2009. IEEE Conference on. IEEE, 2009.
+
+Taigman, Yaniv, et al. "Deepface: Closing the gap to human-level performance in face verification." Proceedings of the IEEE conference on computer vision and pattern recognition. 2014.
 
 ### 이 분야의 권위자, 학교, 연구소 조사
