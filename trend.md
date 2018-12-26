@@ -40,18 +40,27 @@
 4. arXiv
 
 ### CVPR
-  - Gaze-enabled egocentric video summarization via constrained submodular maximization. (2015)
-    - Xu, Jia, et al. 
-    - Citations: 88
+  - Video summarization using singular value decomposition. (2000)
+    - Gong, Yihong, and Xin Liu.
+    - Citations: 206
+  - Video summarization using singular value decomposition. (2000)
+    - Gong, Yihong, and Xin Liu. 
+    - Citations: 206
+  - Discovering important people and objects for egocentric video summarization. (2012)
+    - Lee, Yong Jae, Joydeep Ghosh, and Kristen Grauman. 
+    - Citations: 415
   - Large-scale video summarization using web-image priors. (2013)
     - Khosla, Aditya, et al.
     - Citations: 172
-  - Quasi real-time summarization for consumer videos. (2014)
-    - Zhao, Bin, and Eric P. Xing. 
-    - Citations: 119
   - Story-driven summarization for egocentric video. (2013)
     - Lu, Zheng, and Kristen Grauman.
     - Citations: 339
+  - Quasi real-time summarization for consumer videos. (2014)
+    - Zhao, Bin, and Eric P. Xing. 
+    - Citations: 119
+  - Gaze-enabled egocentric video summarization via constrained submodular maximization. (2015)
+    - Xu, Jia, et al. 
+    - Citations: 88
   - Tvsum: Summarizing web videos using titles. (2015)
     - Song, Yale, et al.
     - Citations: 126
@@ -61,15 +70,6 @@
   - Video summarization by learning submodular mixtures of objectives. (2015)
     - Gygli, Michael, Helmut Grabner, and Luc Van Gool.
     - Citations: 148
-  - Video summarization using singular value decomposition. (2000)
-    - Gong, Yihong, and Xin Liu.
-    - Citations: 206
-  - Discovering important people and objects for egocentric video summarization. (2012)
-    - Lee, Yong Jae, Joydeep Ghosh, and Kristen Grauman. 
-    - Citations: 415
-  - Video summarization using singular value decomposition. (2000)
-    - Gong, Yihong, and Xin Liu. 
-    - Citations: 206
   - Video summarization by learning submodular mixtures of objectives. (2015)
     - Gygli, Michael, Helmut Grabner, and Luc Van Gool.
     - Citations: 148
@@ -91,21 +91,21 @@
 
 
 ### MM
-  - Character-based movie summarization. (2010)
-    - Sang, Jitao, and Changsheng Xu.
-    - Citations: 68
   - Video summarization by curve simplification. (1998)
     - DeMenthon, Daniel, Vikrant Kobla, and David Doermann.
     - Citations: 375
+  -  Dynamic video summarization and visualization. (1999)
+    - Nam, Jeho, and Ahmed H. Tewfik.
+    - Citations: 74
   - A user attention model for video summarization. (2002)
     - Ma, Yu-Fei, et al.
     - Citations: 641
   - Video summarization based on user log enhanced link analysis. (2003)
     - Yu, Bin, et al.
     - Citations: 112
-  -  Dynamic video summarization and visualization. (1999)
-    - Nam, Jeho, and Ahmed H. Tewfik.
-    - Citations: 74
+  - Character-based movie summarization. (2010)
+    - Sang, Jitao, and Changsheng Xu.
+    - Citations: 68
 
 ### NIPS
   - Diverse sequential subset selection for supervised video summarization. (2014)
@@ -118,13 +118,12 @@
     - Citations: 75
 
 ### ICCV
-  - Unsupervised extraction of video highlights via robust recurrent auto-encoders. (2015)
-    - Yang, Huan, et al.
-    - Citations: 60
   - Automatic video summarization by graph modeling. (2003)
     - Ngo, Chong-Wah, Yu-Fei Ma, and Hong-Jiang Zhang.
     - Citations: 121
-
+  - Unsupervised extraction of video highlights via robust recurrent auto-encoders. (2015)
+    - Yang, Huan, et al.
+    - Citations: 60
 ### ECCV
   - Creating summaries from user videos. (2014)
     - Gygli, Michael, et al.
@@ -135,12 +134,12 @@
   - Video summarization with long short-term memory. (2016)
     - Zhang, Ke, et al.
     - Citations: 127
-  - Retrospective Encoders for Video Summarization. (2018)
-    - Zhang, Ke, Kristen Grauman, and Fei Sha.
-    - Citations: 2
   - Query-focused extractive video summarization. (2016)
     - Sharghi, Aidean, Boqing Gong, and Mubarak Shah. 
     - Citations: 29
+  - Retrospective Encoders for Video Summarization. (2018)
+    - Zhang, Ke, Kristen Grauman, and Fei Sha.
+    - Citations: 2
   - How Local is the Local Diversity? Reinforcing Sequential Determinantal Point Processes with Dynamic Ground Sets for Supervised Video Summarization. (2018)
     - Li, Yandong, et al. 
     - CitationsL 42
@@ -151,7 +150,7 @@
     - Citations: 19
 
 ### ICIP
-  - Bayesian modeling of video editing and structure: Semantic features for video summarization and browsing. (2998)
+  - Bayesian modeling of video editing and structure: Semantic features for video summarization and browsing. (1998)
     - Vasconcelos, Nuno, and Andrew Lippman. 
     - Citations: 114
   - Video summarization with minimal visual content redundancies. (2001)
@@ -159,24 +158,24 @@
     - Citations: 61
 
 ### IEEE Transactions on Multimedia
-  - Multimodal saliency and fusion for movie summarization based on aural, visual, and textual attention. (2013)
-    - Evangelopoulos, Georgios, et al. 
-    - Citations: 123
   - Personalized abstraction of broadcasted American football video by highlight selection. (2004)
     - Babaguchi, Noboru, et al. 
     - Citations: 128
   - A generic framework of user attention model and its application in video summarization. (2005)
     - Ma, Yu-Fei, et al.
     - Citations: 497
-  - Event driven web video summarization by tag localization and key-shot identification. (2012)
-    - Wang, Meng, et al. 
-    - Citations: 203
-  - Multi-view video summarization. (2010)
-    - Fu, Yanwei, et al. 
-    - Citations: 135
   - A novel video summarization based on mining the story-structure and semantic relations among concept entities. (2009)
     - Chen, Bo-Wei, Jia-Ching Wang, and Jhing-Fa Wang.
     - Citations: 124
+  - Multi-view video summarization. (2010)
+    - Fu, Yanwei, et al. 
+    - Citations: 135
+  - Event driven web video summarization by tag localization and key-shot identification. (2012)
+    - Wang, Meng, et al. 
+    - Citations: 203
+  - Multimodal saliency and fusion for movie summarization based on aural, visual, and textual attention. (2013)
+    - Evangelopoulos, Georgios, et al. 
+    - Citations: 123
   - A bag-of-importance model with locality-constrained coding based feature learning for video summarization. (2014)
     - Lu, Shiyang, et al. 
     - Citations: 52
@@ -190,33 +189,32 @@
   - Automatic soccer video analysis and summarization. (2003)
     - Ekin, Ahmet, A. Murat Tekalp, and Rajiv Mehrotra. 
     - Citations: 983
+  - Context-Aware Surveillance Video Summarization. (2016)
+    - Zhang, Shu, Yingying Zhu, and Amit K. Roy-Chowdhury. 
+    - Citations 15
   - Video summarization via multi-view representative selection. (2018)
     - Meng, Jingjing, et al.
     - Citations: 4
-  - "Context-Aware Surveillance Video Summarization. (2016)
-    - Zhang, Shu, Yingying Zhu, and Amit K. Roy-Chowdhury. 
-    - Citations 15
-
 
 ### IEEE Transactions on Circuits and Systems for Video Technology
   - Video summarization and scene detection by graph modeling. (2005)
     - Ngo, Chong-Wah, Yu-Fei Ma, and Hong-Jiang Zhang.
     - Citations: 377
+  - MINMAX optimal video summarization. (2005)
+    - Li, Zhu, Guido M. Schuster, and Aggelos K. Katsaggelos. 
+    - Citations: 122
   - Information theory-based shot cut/fade detection and video summarization. (2006)
     - Cernekova, Zuzana, Ioannis Pitas, and Christophoros Nikou.
     - Citations: 341
   - A multiple visual models based perceptive analysis framework for multilevel video summarization. (2007)
     - You, Junyong, et al.
     - Citations: 134
-  - MINMAX optimal video summarization. (2005)
-    - Li, Zhu, Guido M. Schuster, and Aggelos K. Katsaggelos. 
-    - Citations: 122
-  - Video Summarization by Learning Deep Side Semantic Embedding. (2017)
-    - Yuan, Yitian, et al. 
-    - Citations: 6
   - Event detection and summarization in soccer videos using bayesian network and copula.
     - Tavassolipour, Mostafa, Mahmood Karimian, and Shohreh Kasaei. (2014)
     - Citations: 49
+  - Video Summarization by Learning Deep Side Semantic Embedding. (2017)
+    - Yuan, Yitian, et al. 
+    - Citations: 6
 
 ### International Journal of Computer Graphics
   - Fast highlight detection and scoring for broadcast soccer video summarization using on-demand feature extraction and fuzzy inference. (2015)
@@ -250,15 +248,15 @@ Signal Processing 80.6 (2000): 1049-1067.
 
 ### Signal Processing: Image Communication
 
-Ejaz, Naveed, Irfan Mehmood, and Sung Wook Baik.
-"Efficient visual attention based framework for extracting key frames from videos."
-Signal Processing: Image Communication 28.1 (2013): 34-44.
-Citations: 121
-
 Fonseca, Pedro Miguel, and Fernando Pereira.
 "Automatic video summarization based on MPEG-7 descriptions."
 Signal Processing: Image Communication 19.8 (2004): 685-699.
 Citations: 36
+
+Ejaz, Naveed, Irfan Mehmood, and Sung Wook Baik.
+"Efficient visual attention based framework for extracting key frames from videos."
+Signal Processing: Image Communication 28.1 (2013): 34-44.
+Citations: 121
 
 ### International Journal on Digital Libraries
 Mundur, Padmavathi, Yong Rao, and Yelena Yesha.
