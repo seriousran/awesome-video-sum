@@ -40,17 +40,32 @@ idx | conference | rank(Qualis) | rank(ERA) | full-name | num-papers
 15 | [MLSP](#) | B2 | - | C | 1
 
 *Qualis(2012): This conference ranking has been published by the Brazilian ministry of education and uses the H-index as performance measure for conferences. Based on the H-index percentiles, the conferences are grouped into performance classes that range from A1 (=best), A2, B1, ..., B5 (=worst).
+
 *ERA(2010): This conference ranking has been created as part of the Excellence in Research in Australia (ERA). The ranking was created by Australian deans and the Australian Computing Research and Education Association of Australasia (CORE). The rankings range from A (=best) to C (=worst).
+
 *Rank information is from [conference ranks](http://www.conferenceranks.com/)
 
 ### 학술지 리스트 조사
 
-idx | journal | IF | full-name | num-papers
---- | --- | --- | --- | ---
-1 | [TIP](#ieee-transactions-on-image-processing) | 5.071 | IEEE Transactions on Image processing | 1
-2 | [TMM](#ieee-transactions-on-multimedia) | 3.977 | IEEE Transactions on Multimedia | 1
-3 | [TCSVT](#ieee-transactions-on-circuits-and-systems-for-video-technology) | 3.558 | IEEE Transactions on Circuits and Systems for Video Technology | 1
-4 | [arxiv](#arxiv) | - | arxiv | 1
+idx | journal | IF | SCI | full-name | num-papers
+--- | --- | --- | --- | --- | ---
+1 | IJCV | 11.541 | SCI | International Journal of Computer Vision | 1
+2 | TIE | 9.04 | SCI | IEEE Transactions on Industrial Electronics | 1
+3 | [TIP](#ieee-transactions-on-image-processing) | 5.071 | SCI | IEEE Transactions on Image processing | 1
+4 | [TMM](#ieee-transactions-on-multimedia) | 3.977 | SCIE | IEEE Transactions on Multimedia | 1
+5 | PR | 3.962 | SCI | Pattern Recognition | 1
+6 | [TCSVT](#ieee-transactions-on-circuits-and-systems-for-video-technology) | 3.558 | SCI | IEEE Transactions on Circuits and Systems for Video Technology | 1
+7 | SP | 3.470 | SCI | Signal Processing | 1
+8 | JSTSP | 4.361 | SCIE | IEEE Journal of Selected Topics in Signal Processing | 1
+9 | SP-IC | 2.073 | SCIE | Signal Processing: Image Communication | 1
+10 | JMS | 2.098 | SCIE | Journal of medical systems | 1
+11 | JVCIR | 1.836 | SCIE | Journal of Visual Communication and Image Representation | 1
+12 | MTA | 1.541 | SCIE | Multimedia Tools and Applications | 1
+13 | [arxiv](#arxiv) | - | - | arxiv | 1
+14 | TAC | 4.82 | X | IEEE Transactions on Affective Computing | 1
+15 | PMC | 2.974 | X | Pervasive and Mobile Computing | 1
+16 | JRTIP | 1.574 | X | Journal of Real-Time Image Processing | 1
+17 | IJDL | 0.97 | X | International Journal on Digital Libraries | 1
 
 ### CVPR
   - Video summarization using singular value decomposition. (2000)
