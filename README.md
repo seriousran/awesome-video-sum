@@ -31,6 +31,9 @@ Video summaries are one of the most important topics which you can browse large 
 - [VASNet](https://github.com/ok1zjf/VASNet)
   - Video Summarization with Attention
   - Python, PyTorch
+- [Vis-DSS](https://github.com/Pratik08/vis-dss)
+  - An Open-Source toolkit for Visual Data Selection and Summarization
+  - C++, caffe
 
 ## Datasets
 - [TREC Video](https://trecvid.nist.gov/)
