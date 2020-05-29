@@ -1,6 +1,6 @@
 # Awesome Video Summarization [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> _A curated list of the __Video Summarization__ subject which is a computer science using machine learning and deep learning_ <br/>
+> _A curated list of the __Video Summarization__ subject in computer science toward using machine learning and deep learning_ <br/>
 > _동영상 자동 요약에 관한 큐레이션 - 머신러닝과 딥러닝 단계까지_<br/>
 > _关于自动视频摘要的管理 - 使用机器学习和深度学习_
 
