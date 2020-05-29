@@ -1,8 +1,8 @@
 # Awesome Video Summarization [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > _A curated list of the __Video Summarization__ subject which is a computer science using machine learning and deep learning_ <br/>
-_동영상 자동 요약에 관한 큐레이션 - 머신러닝과 딥러닝 단계까지_<br/>
-_关于自动视频摘要的管理 - 使用机器学习和深度学习_
+> _동영상 자동 요약에 관한 큐레이션 - 머신러닝과 딥러닝 단계까지_<br/>
+> _关于自动视频摘要的管理 - 使用机器学习和深度学习_
 
 ## Contents
 
@@ -23,10 +23,10 @@ Video summaries are one of the most important topics which you can browse large 
 ### Major components
 
 1. Key-frame extraction
-  1. Using visual features
-    1. Corner Feature
-    2. Face Detection & Recognition
-  2. Using video skimming
+    1. Using visual features
+        1. Corner Feature
+        2. Face Detection & Recognition
+    2. Using video skimming
 2. Scene change detection (=Video Transition Detection)
 
 ## Codes
